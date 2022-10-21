@@ -1,4 +1,6 @@
-# RJSF/Tailwind/DaisyUI Example to accompany the blog post [Using react-jsonschema-form With Tailwind CSS and daisyUI](https://www.xtivia.com/blog/using-react-jsonschema-form-with-tailwind-css-and-daisyui/)
+# RJSF/Tailwind/DaisyUI Example 
+
+This repo is a companion to the blog post [Using react-jsonschema-form With Tailwind CSS and daisyUI](https://www.xtivia.com/blog/using-react-jsonschema-form-with-tailwind-css-and-daisyui/)
 
 A react-jsonschema-form starter instance that uses Tailwind CSS and DaisyUI.
 
